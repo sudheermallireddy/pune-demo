@@ -1,0 +1,11 @@
+C:\Users\tdykstra\Documents\GitHub\contosouniversity\ContosoUniversity.DAL\bin\Release\ContosoUniversity.DAL.dll.config
+C:\Users\tdykstra\Documents\GitHub\contosouniversity\ContosoUniversity.DAL\bin\Release\ContosoUniversity.DAL.dll
+C:\Users\tdykstra\Documents\GitHub\contosouniversity\ContosoUniversity.DAL\bin\Release\ContosoUniversity.DAL.pdb
+C:\Users\tdykstra\Documents\GitHub\contosouniversity\ContosoUniversity.DAL\bin\Release\EntityFramework.dll
+C:\Users\tdykstra\Documents\GitHub\contosouniversity\ContosoUniversity.DAL\bin\Release\EntityFramework.xml
+C:\Users\tdykstra\Documents\GitHub\contosouniversity\ContosoUniversity.DAL\obj\Release\ContosoUniversity.DAL.csprojResolveAssemblyReference.cache
+C:\Users\tdykstra\Documents\GitHub\contosouniversity\ContosoUniversity.DAL\obj\Release\ContosoUniversity.DAL.Migrations.InitialCreate.resources
+C:\Users\tdykstra\Documents\GitHub\contosouniversity\ContosoUniversity.DAL\obj\Release\ContosoUniversity.DAL.csproj.GenerateResource.Cache
+C:\Users\tdykstra\Documents\GitHub\contosouniversity\ContosoUniversity.DAL\obj\Release\ContosoUniversity.DAL.dll
+C:\Users\tdykstra\Documents\GitHub\contosouniversity\ContosoUniversity.DAL\obj\Release\ContosoUniversity.DAL.pdb
+C:\Users\tdykstra\Documents\GitHub\contosouniversity\ContosoUniversity.DAL\obj\Release\ContosoUniversity.DAL.Migrations.AddBirthDate.resources

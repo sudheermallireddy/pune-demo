@@ -1,0 +1,19 @@
+C:\Users\tdykstra\Documents\_tdykstra\Deployment Small Shop\ContosoUniversity\ContosoUniversity.DAL\bin\Debug\ContosoUniversity.DAL.dll.config
+C:\Users\tdykstra\Documents\_tdykstra\Deployment Small Shop\ContosoUniversity\ContosoUniversity.DAL\bin\Debug\ContosoUniversity.DAL.dll
+C:\Users\tdykstra\Documents\_tdykstra\Deployment Small Shop\ContosoUniversity\ContosoUniversity.DAL\bin\Debug\ContosoUniversity.DAL.pdb
+C:\Users\tdykstra\Documents\_tdykstra\Deployment Small Shop\ContosoUniversity\ContosoUniversity.DAL\bin\Debug\EntityFramework.dll
+C:\Users\tdykstra\Documents\_tdykstra\Deployment Small Shop\ContosoUniversity\ContosoUniversity.DAL\bin\Debug\EntityFramework.xml
+C:\Users\tdykstra\Documents\_tdykstra\Deployment Small Shop\ContosoUniversity\ContosoUniversity.DAL\obj\Debug\ContosoUniversity.DAL.csprojResolveAssemblyReference.cache
+C:\Users\tdykstra\Documents\_tdykstra\Deployment Small Shop\ContosoUniversity\ContosoUniversity.DAL\obj\Debug\ContosoUniversity.DAL.dll
+C:\Users\tdykstra\Documents\_tdykstra\Deployment Small Shop\ContosoUniversity\ContosoUniversity.DAL\obj\Debug\ContosoUniversity.DAL.pdb
+C:\Users\tdykstra\Documents\GitHub\contosouniversity\ContosoUniversity.DAL\bin\Debug\ContosoUniversity.DAL.dll.config
+C:\Users\tdykstra\Documents\GitHub\contosouniversity\ContosoUniversity.DAL\bin\Debug\ContosoUniversity.DAL.dll
+C:\Users\tdykstra\Documents\GitHub\contosouniversity\ContosoUniversity.DAL\bin\Debug\ContosoUniversity.DAL.pdb
+C:\Users\tdykstra\Documents\GitHub\contosouniversity\ContosoUniversity.DAL\bin\Debug\EntityFramework.dll
+C:\Users\tdykstra\Documents\GitHub\contosouniversity\ContosoUniversity.DAL\bin\Debug\EntityFramework.xml
+C:\Users\tdykstra\Documents\GitHub\contosouniversity\ContosoUniversity.DAL\obj\Debug\ContosoUniversity.DAL.csprojResolveAssemblyReference.cache
+C:\Users\tdykstra\Documents\GitHub\contosouniversity\ContosoUniversity.DAL\obj\Debug\ContosoUniversity.DAL.dll
+C:\Users\tdykstra\Documents\GitHub\contosouniversity\ContosoUniversity.DAL\obj\Debug\ContosoUniversity.DAL.pdb
+C:\Users\tdykstra\Documents\GitHub\contosouniversity\ContosoUniversity.DAL\obj\Debug\ContosoUniversity.DAL.Migrations.InitialCreate.resources
+C:\Users\tdykstra\Documents\GitHub\contosouniversity\ContosoUniversity.DAL\obj\Debug\ContosoUniversity.DAL.Migrations.AddBirthDate.resources
+C:\Users\tdykstra\Documents\GitHub\contosouniversity\ContosoUniversity.DAL\obj\Debug\ContosoUniversity.DAL.csproj.GenerateResource.Cache
